@@ -1,0 +1,26 @@
+.nav-bar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.logo-image {
+  width: 50%;
+  margin-left: 50px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.logout-button {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 5px;
+  margin-right: 50px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  cursor: pointer;
+}
